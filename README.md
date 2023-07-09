@@ -12,3 +12,5 @@ sur des projets, ainsi que de suivre et d'attribuer des tâches à l'intérieur 
 - Clonez le référentiel du projet en utilisant la commande suivante : `git clone https://github.com/Quthbulhameed/Gestionnaire_de_projets_Symfony.git `
 - Accédez au répertoire du projet.
 - Ouvrez le fichier `.env` et modifiez les informations de connexion à la base de données en fonction de votre configuration.
+
+  
